@@ -6,8 +6,7 @@ export default function Secao1() {
     return (
         <div className="Secao1">
 
-          
-
+        
             <div className="login-section">
                 <h2>Login</h2>
                 <form>
